@@ -1,11 +1,10 @@
 # Campo-Minado-RealBasic-Xojo--2011-
-Campo Minado — RealBasic (2011)
 Implementação do clássico Campo Minado desenvolvida em RealBasic em 2011, sem consulta a referências externas — algoritmo pensado do zero durante o aprendizado de programação visual.
 Funcionalidades
 
 Grid 9x9 com distribuição aleatória de bombas
 Numeração de proximidade com cores por valor
-Marcação de suspeitos com bandeirinha
+Botão esquerdo do mouse marca bandeirinha em células suspeitas
 Contador de bombas e células abertas
 Botão de novo jogo e tela de configuração com 3 níveis de dificuldade
 
